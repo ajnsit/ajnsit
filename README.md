@@ -1,3 +1,5 @@
+## I'm currently taking a break from social media (yes github is effectively social media). I will occasionally check my github notifications, but don't guarantee a timely response. I hope to be back around when this ridiculous year is over.
+
 ### Hi there 👋
 
 - 🔭 I'm currently working on strongly typed FP, user interfaces, analytics, and fintech.
