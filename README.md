@@ -1,3 +1,5 @@
+## Update: I'm on a github/foss vacation till end of August 2021
+
 ### Hi there 👋
 
 - 🔭 I'm currently working on strongly typed FP, user interfaces, analytics, and fintech.
