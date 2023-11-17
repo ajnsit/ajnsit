@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+**I'm also on Gitlab at https://gitlab.com/ajnsit/**
+
 - 🔭 I'm currently working on strongly typed FP, user interfaces, analytics, and fintech.
 - 🌱 I love to give talks and help people learn functional programming. Get in touch!
 - 👯 I'm currently looking to collaborate on products and services that make people's lives easier.
