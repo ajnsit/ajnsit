@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### UPDATE: I am not active on Github anymore.
+Most of my code is going to be uploaded to [my code forge](https://forge.id1.in) instead.
+
+Also, I have made the decision to keep most of my code private, and any code I do release is going to be GPL licensed.
+
+#### Old page contents follow
+
 **I'm also on Gitlab at https://gitlab.com/ajnsit/**
 
 - 🔭 I'm currently working on strongly typed FP, user interfaces, analytics, and fintech.
